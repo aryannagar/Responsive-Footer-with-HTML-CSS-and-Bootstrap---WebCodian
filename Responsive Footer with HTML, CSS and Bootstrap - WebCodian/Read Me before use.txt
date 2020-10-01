@@ -1,7 +1,7 @@
 Hi, codians in this repository you will find the stuff related Responsive footer created by using HTML, CSS and Bootstrap.
 here youwill find all the assets related about this element including code files and CDN. 
 
-If you like this content and willing to ge more such updates like this then do subscribe our YouTUbe Channel. Their you can
+If you like this content and willing to go more such updates like this then do subscribe our Youtube Channel. Their you can
 find more stunning and elegant website designs and elements. If you like any of then then do drop a like that really motivates us
 to bring more such updates for you guys and if you want a video about any specific topic then you can connect with us on our 
 Facebook page. We definately appreciate your effotes over there.
@@ -12,3 +12,4 @@ You find out more about me at:
 Twitter:  👉 https://twitter.com/aryannagar27
 Instagram: 👉 https://www.instagram.com/aryannagar27/
 GitHub: 👉 https://github.com/aryannagar
+youtube: give link of your youtube channel bro.
